@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nflPlayers xmlns="http://purl.org/dc/elements/1.1/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://purl.org/dc/elements/1.1/ nflPlayersSchema.xsd">
+    <player>
+        <Title>Tom Brady</Title>
+        <Creator>New England Patriots</Creator>
+        <Description>Tom Brady is a prominent NFL quarterback who has played for both the New England Patriots and the Tampa Bay Buccaneers. He is known for his numerous Super Bowl appearances and championships.</Description>
+        <Date>1977-08-03</Date>
+        <Position>Quarterback</Position>
+        <Salary>$25 million</Salary>
+        <Championships>7</Championships>
+        <Birthplace>San Mateo, California</Birthplace>
+        <Debut>2000</Debut>
+        <Stats>Passing yards: 89,214, Touchdowns: 649</Stats>
+        <Status>Retired</Status>
+        <Teams>New England Patriots, Tampa Bay Buccaneers</Teams>
+        <Coach>Bill Belichick, Bruce Arians</Coach>
+        <Location>New England Region</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Jim Brown</Title>
+        <Creator>Cleveland Browns</Creator>
+        <Description>Jim Brown is a legendary NFL running back who played for the Cleveland Browns and is often considered one of the greatest football players of all time.</Description>
+        <Date>1936-02-17</Date>
+        <Position>Running Back</Position>
+        <Salary>NA</Salary>
+        <Championships>1 NFL Championship</Championships>
+        <Birthplace>St. Simons, Georgia</Birthplace>
+        <Debut>1957</Debut>
+        <Stats>Rushing yards: 12,312, Touchdowns: 106</Stats>
+        <Status>Retired</Status>
+        <Teams>Cleveland Browns</Teams>
+        <Coach>Paul Brown</Coach>
+        <Location>Clevland, OH</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Jerry Rice</Title>
+        <Creator>San Francisco 49ers</Creator>
+        <Description>Jerry Rice is a Hall of Fame wide receiver who played for the San Francisco 49ers and the Oakland Raiders. He holds numerous NFL receiving records.</Description>
+        <Date>1962-10-13</Date>
+        <Position>Wide Receiver</Position>
+        <Salary>NA</Salary>
+        <Championships>3 Super Bowl Championships</Championships>
+        <Birthplace>Starkville, Mississippi</Birthplace>
+        <Debut>1985</Debut>
+        <Stats>Receiving yards: 22,895, Touchdowns: 197</Stats>
+        <Status>Retired</Status>
+        <Teams>San Francisco 49ers, Oakland Raiders</Teams>
+        <Coach>Bill Walsh, Jon Gruden</Coach>
+        <Location>San Francisco, CA</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Patrick Mahomes</Title>
+        <Creator>Kansas City Chiefs</Creator>
+        <Description>Patrick Mahomes is a young and talented NFL quarterback for the Kansas City Chiefs, known for his strong arm and playmaking abilities.</Description>
+        <Date>1995-09-17</Date>
+        <Position>Quarterback</Position>
+        <Salary>$45 million</Salary>
+        <Championships>1 Super Bowl Championship</Championships>
+        <Birthplace>Tyler, Texas</Birthplace>
+        <Debut>2017</Debut>
+        <Stats>Passing yards: 26,683, Touchdowns: 209</Stats>
+        <Status>Active</Status>
+        <Teams>Kansas City Chiefs</Teams>
+        <Coach>Andy Reid</Coach>
+        <Location>Kensas City, MO</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Travis Kelce</Title>
+        <Creator>Kansas City Chiefs</Creator>
+        <Description>Travis Kelce is a star tight end for the Kansas City Chiefs, known for his receiving skills and contributions to the team's success.</Description>
+        <Date>1989-10-05</Date>
+        <Position>Tight End</Position>
+        <Salary>$14 million</Salary>
+        <Championships>1 Super Bowl Championship</Championships>
+        <Birthplace>Cleveland Heights, Ohio</Birthplace>
+        <Debut>2013</Debut>
+        <Stats>Receiving yards: 10,941, Touchdowns: 73</Stats>
+        <Status>Active</Status>
+        <Teams>Kansas City Chiefs</Teams>
+        <Coach>Andy Reid</Coach>
+        <Location>Kensas City, MO</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Jason Kelce</Title>
+        <Creator>Philadelphia Eagles</Creator>
+        <Description>Jason Kelce is an NFL center who has spent his entire career with the Philadelphia Eagles, known for his Pro Bowl appearances and leadership on the field.</Description>
+        <Date>1987-11-05</Date>
+        <Position>Center</Position>
+        <Salary>$14.25 million</Salary>
+        <Championships>1 Super Bowl Championship</Championships>
+        <Birthplace>Cleveland Heights, Ohio</Birthplace>
+        <Debut>2011</Debut>
+        <Stats>NA</Stats>
+        <Status>Active</Status>
+        <Teams>Philadelphia Eagles</Teams>
+        <Coach>Doug Pederson</Coach>
+        <Location>Philadelphia, PA</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Aaron Rodgers</Title>
+        <Creator>Green Bay Packers</Creator>
+        <Description>Aaron Rodgers is a highly regarded NFL quarterback who has played for the Green Bay Packers and, currently, for the New York Jets, known for his precision passing and MVP awards.</Description>
+        <Date>1983-12-02</Date>
+        <Position>Quarterback</Position>
+        <Salary>$50 million</Salary>
+        <Championships>1 Super Bowl Championship</Championships>
+        <Birthplace>Chico, California</Birthplace>
+        <Debut>2005</Debut>
+        <Stats>Passing yards: 59,055, Touchdowns: 475</Stats>
+        <Status>Active</Status>
+        <Teams>Green Bay Packers, New York Jets</Teams>
+        <Coach>Mike McCarthy, Matt LaFleur</Coach>
+        <Location>Green Bay, WI</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Barry Sanders</Title>
+        <Creator>Detroit Lions</Creator>
+        <Description>Barry Sanders is a Hall of Fame running back who played his entire NFL career with the Detroit Lions, known for his incredible rushing skills and elusive style.</Description>
+        <Date>1968-07-16</Date>
+        <Position>Running Back</Position>
+        <Salary>NA</Salary>
+        <Championships>None</Championships>
+        <Birthplace>Wichita, Kansas</Birthplace>
+        <Debut>1989</Debut>
+        <Stats>Rushing yards: 15,269, Touchdowns: 99</Stats>
+        <Status>Retired</Status>
+        <Teams>Detroit Lions</Teams>
+        <Coach>Wayne Fontes, Bobby Ross</Coach>
+        <Location>Detroit, MI</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Larry Allen</Title>
+        <Creator>Dallas Cowboys</Creator>
+        <Description>Larry Allen is a legendary offensive guard who spent most of his NFL career with the Dallas Cowboys, known for his strength and agility in blocking.</Description>
+        <Date>1971-11-27</Date>
+        <Position>Offensive Guard</Position>
+        <Salary>NA</Salary>
+        <Championships>1 Super Bowl Championship</Championships>
+        <Birthplace>Los Angeles, California</Birthplace>
+        <Debut>1994</Debut>
+        <Stats>NA</Stats>
+        <Status>Retired</Status>
+        <Teams>Dallas Cowboys, San Francisco 49ers</Teams>
+        <Coach>Barry Switzer, Bill Callahan</Coach>
+        <Location>Dallas, TX</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+    
+    <player>
+        <Title>Baker Mayfield</Title>
+        <Creator>Cleveland Browns</Creator>
+        <Description>Baker Mayfield is a young NFL quarterback who plays for the Tampa Bay Buccaneers, known for his leadership and passing abilities.</Description>
+        <Date>1995-04-14</Date>
+        <Position>Quarterback</Position>
+        <Salary>$4 million</Salary>
+        <Championships>None</Championships>
+        <Birthplace>Austin, Texas</Birthplace>
+        <Debut>2018</Debut>
+        <Stats>Passing yards: 18,153, Touchdowns: 114</Stats>
+        <Status>Active</Status>
+        <Teams>Cleveland Browns, Tampa Bay Buccaneers</Teams>
+        <Coach>Fred Kitchens, Kevin Stefanski</Coach>
+        <Location>United States</Location>
+        <Rights>Copyrighted by the NFL</Rights>
+    </player>
+</nflPlayers>
