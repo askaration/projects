@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" targetNamespace="http://purl.org/dc/elements/1.1/" elementFormDefault="qualified">
+    
+    <xs:element name="nflPlayers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="player" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Title" type="xs:string"/>
+                            <xs:element name="Creator" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                            <xs:element name="Description" type="xs:string"/>
+                            <xs:element name="Date" type="xs:date"/>
+                            <xs:element name="Position">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Quarterback"/>
+                                        <xs:enumeration value="Running Back"/>
+                                        <xs:enumeration value="Wide Receiver"/>
+                                        <xs:enumeration value="Tight End"/>
+                                        <xs:enumeration value="Center"/>
+                                        <xs:enumeration value="Offensive Guard"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Salary" type="xs:string"/>
+                            <xs:element name="Championships" type="xs:string"/>
+                            <xs:element name="Birthplace" type="xs:string"/>
+                            <xs:element name="Debut" type="xs:gYear"/>
+                            <xs:element name="Stats" type="xs:string"/>
+                            <xs:element name="Status" type="xs:string"/>
+                            <xs:element name="Teams" minOccurs="1" maxOccurs="unbounded" type="xs:string"/>
+                            <xs:element name="Coach" minOccurs="1" maxOccurs="unbounded" type="xs:string"/>
+                            <xs:element name="Location" type="xs:string"/>
+                            <xs:element name="Rights" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>
