@@ -1,0 +1,12 @@
+            - name: Tableau Workbook Action
+  # You may pin to the exact commit or the version.
+  # uses: jayamanikharyono/tableau-workbook-action@a4c18b33d5e8ac269848667df88432d133ad3f89
+  uses: jayamanikharyono/tableau-workbook-action@v1.5
+  with:
+    # Path to you workbook directory
+    workbook_dir: 
+    # Target environments
+    env: 
+    # Repo access token
+    repo_token: 
+          
